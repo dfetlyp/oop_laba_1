@@ -7,5 +7,5 @@ int main() {
 	int a = 10, b = 5;
 	int c = slogenie(a, b);
 	int d = vichitanie(a, b);
-	std::cout << c << std::endl << d << std::endl;
+	std::cout << "slogenie: " << c << std::endl << "vichitanie: " << d << std::endl;
 }
