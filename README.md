@@ -28,6 +28,8 @@ cmake --build .)
 
 (
 git add .
+
+
 git commit -m "Initial commit: CMake project setup"
 )
 
